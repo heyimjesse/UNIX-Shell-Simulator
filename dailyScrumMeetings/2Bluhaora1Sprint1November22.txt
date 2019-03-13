@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+  - Finished LS and relevant helper methods
+
+What do I plan to work in the next three days?
+  - Start work on Save command
+
+Am I blocked on anything?
+  - No

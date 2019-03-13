@@ -1,0 +1,44 @@
+//Sprint #2 Backlog.
+October 24 to October 30
+
+
+User Stories from Product Backlog that we will address in this sprint:
+*we plan to finish everything this sprint so we can use the last sprint for error checking and testing*
+a) *DONE* I want to be able to create folders on my machine. 
+b) *DONE* I want a shell with multiple commands that can take input (keyboard) and compute an output based on my requirements.
+c) *DONE* I want to be able to save my current working directory and change the directory to something else.
+d) *DONE* I want to be able to change directories to my most recently saved directory.
+e) *DONE* I want to be able to see the history of all of my commands and actions.
+f) I want to be able to see what's inside of a file in text format.
+g) *DONE* I want to be able to write text to a file. 
+h) *DONE* I want to be able to add text to an existing file. 
+i) *DONE* I want to be able to see instructions for each command.  
+j) *DONE* I want to see my current working directory.
+
+Specific tasks to be accomplished:
+a-1. (MKDir) Complete the MKDir command
+b-1. (Shell) Work on the shell class which will function as the main structure of the program.
+c-1. (CD) Complete the CD command
+c-2. (DirectoryStack) Complete the stack class which will be used by PushD and PopD
+d-1. (PushD/PopD) Complete the commands PushD and PopD
+e-1. (History) Complete the history command
+g-1. (Echo) Create a method to write text to file if file is specified, or to shell otherwise
+h-1. (Echo) Create a method to append text to a specified file, or to shell otherwise
+i-1. (Man) Create the Man method
+j-1. (PWD) Create PWD command.
+k-1. Test for errors
+k-2. Check documentation for clarity, grammar, and consistency
+
+The tasks are assigned as follows:
+
+User: Jesse
+Tasks: a-1, b-1, c-1, j-1, k-1
+
+User: Mogen
+Tasks: c2, d2, d-1, k-1, k-2
+
+User: Haoran
+Tasks: i-1, k-1, k-2
+
+User: Saron
+Tasks: g-1, h-1

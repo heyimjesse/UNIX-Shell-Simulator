@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Finished Save, saveHelper, Load, fsBuilder, fixing other relevant
+    helper methods
+  - Imported simple-JSON for use with file saving and loading
+  - Various debugging
+
+What do I plan to work in the next three days?
+  - N/A
+
+Am I blocked on anything?
+  - No

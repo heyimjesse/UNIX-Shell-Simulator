@@ -1,0 +1,9 @@
+Class name: CmdDictionary
+Parent class:
+Subclasses:
+
+Responsibilities:
+*allows access to commands from string representation
+
+Collaborators: 
+*All commands

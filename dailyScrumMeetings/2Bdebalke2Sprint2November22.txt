@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Created/implemented the cp command
+	- Fixed edge cases for echo/find
+	- Cleaning up/formatting code
+
+What do I plan to work in the next three days?
+	- Testing code mainly
+	- Cleaning up some code
+	
+Am I blocked on anything?

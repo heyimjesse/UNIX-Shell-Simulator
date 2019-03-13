@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Working on bugs brought on from version control issues
+	- Found literature on junit testing
+
+What do I plan to work in the next three days?
+	- Plan to write test cases and fix bugs that are to be found
+
+Am I blocked on anything?
+	- Testing method is not immediately obvious for some methods (ie. ones that only print to console)

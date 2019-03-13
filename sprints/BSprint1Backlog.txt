@@ -1,0 +1,43 @@
+//Sprint 1 Backlog for 2B
+November 12 to November 18
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) I want to be able to view all folders within my current folder.
+b) I want to move a file to a different place.
+c) I want to copy a certain folder and its contents to a different place
+d) I want to see the contents of multiple files at once.
+e) I want to be able to see my outfile on a file
+
+Specific tasks to be accomplished:
+a-1. (FileSystem) Implement a recursive method that take in a File object and returns the adjacent File object using in-order traversal.
+a-2. (LS) Add the extra argument to LS
+a-3. (LS) Recursively go through all folders and textfiles and display them in order
+
+b-1. (MV) Create the command
+b-2. (MV) Implement the command
+b-3. (MV) Add it to the JShell
+
+c-1. (CP) Create the command
+c-2. (CP) Implement the command
+c-3. (CP) Add it to the JShell
+
+d-1. (CAT) Add a loop that runs the CP method multiple times to display items from different paths
+
+e-1. Make commands compatible with > OUTFILE and >> OUTFILE
+e-2. Make commands that formerly dispalyed output return a string instead.
+
+
+These tasks are assigned as follows:
+
+User: Haoran
+Tasks: a
+
+User: Mogen
+Tasks: b
+
+User: Saron
+Tasks: c
+
+User: Jesse
+Tasks: d, e

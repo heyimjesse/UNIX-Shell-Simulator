@@ -1,0 +1,9 @@
+a) What did I work on in the last three days?
+History, PopD, PushD, commands, PushD, fixed some bugs in Printer, Shell, etc.
+
+b) What do I plan to work in the next three days?
+Bug testing to make sure all commands work well, i.e. "edge" cases that will
+prevent issues regarding user experience.
+
+c) Am I blocked on anything?
+No

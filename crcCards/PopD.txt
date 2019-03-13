@@ -1,0 +1,12 @@
+Class name: PopD
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Changes current directory to the most recent previous directory by popping from stack of DirectoryStack
+
+Collaborators: 
+*FileSystem
+*CD
+*Scanner
+*Shell

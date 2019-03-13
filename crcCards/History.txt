@@ -1,0 +1,11 @@
+Class name: History
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Prints out specified number of most recent commands in order of most recent first
+
+Collaborators: 
+*FileSystem
+*Printer
+*TextFile

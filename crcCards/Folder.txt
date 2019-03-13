@@ -1,0 +1,9 @@
+Class name: Folder
+Parent class: File
+Subclasses: 
+
+Responsibilities:
+*Contains items which may be text files or other folders
+*Identifies itself as a folder.
+
+Collaborators: 

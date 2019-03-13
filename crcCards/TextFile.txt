@@ -1,0 +1,9 @@
+Class name: TextFile
+Parent class: File
+Subclasses:
+
+Responsibilities:
+*Stores text.
+*Identifies itself as a text file.
+
+Collaborators: 

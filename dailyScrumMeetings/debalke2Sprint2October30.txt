@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+- Created basic functionality for echo class
+- Created basic functionality for cat class
+- Edited textfile class a bit to work with cat and echo classes
+
+What do i plan to work on in the next three days?
+- Finish cleaning up/commenting/error checking for cat class
+- Finish cleaning up/commenting/error checking for echo class
+- Getting together with the group once again to continue with the sprint backlog.
+
+Am i blocked on anything?
+- Not at the moment.

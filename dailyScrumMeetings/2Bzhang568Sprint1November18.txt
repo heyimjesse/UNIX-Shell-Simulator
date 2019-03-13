@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- brainstormed implementation ideas with team
+	- changed all commands to non-static
+	- added get URL command
+	- added cmdDictionary 
+	- fixed some bugs
+
+What do I plan to work in the next three days?
+	- tree command
+	- fix test cases
+	
+Am I blocked on anything?

@@ -1,0 +1,11 @@
+Class name: CD
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Changes current directory to given directory, which may be a full or relative path
+
+Collaborators: 
+*FileSystem
+*PathChecker
+*Navigate

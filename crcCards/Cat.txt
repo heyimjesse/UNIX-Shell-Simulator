@@ -1,0 +1,12 @@
+Class name: Cat
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Concatenates the contents of the specified files in order, and outputs to the shell.
+Three line breaks are used to separate contents of each file.
+
+Collaborators: 
+*FileSystem
+*PathChecker
+*Navigate

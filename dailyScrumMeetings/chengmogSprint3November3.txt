@@ -1,0 +1,8 @@
+a) What did I work on in the last three days?
+- Added some test cases for the class
+- Fixed and errors or misinterpretations
+
+b) What do I plan to work in the next three days?
+- Refine the product including test cases
+
+c) Am I blocked on anything?

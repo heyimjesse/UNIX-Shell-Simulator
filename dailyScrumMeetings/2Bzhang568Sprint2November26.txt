@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- fixed all the old test cases which were broken
+	- added more test cases
+	- fixed most of the errors we had with part A
+	- filled in missing javadocs
+
+What do I plan to work in the next three days?
+	
+Am I blocked on anything?

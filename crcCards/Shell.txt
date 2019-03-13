@@ -1,0 +1,14 @@
+Class name: Shell
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Starts upon request
+*Exits upon request
+*Provides access to commands
+
+Collaborators: 
+*FileSystem
+*Scanner
+*All commands
+*CmdDictionary

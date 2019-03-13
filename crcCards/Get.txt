@@ -1,0 +1,9 @@
+Class name: Get
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Gets the file at the URL and puts it in the current working directory.
+
+Collaborators: 
+*FileSystem

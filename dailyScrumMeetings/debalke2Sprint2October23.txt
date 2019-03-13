@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+- Created own CRC cards but decided group implementation was essentially a better version.
+- Reviewed group CRC cards/code.
+
+What do i plan to work on in the next three days?
+- Finish implementing crcCards with group.
+- Getting together with the group once again to continue with the sprint backlog.
+
+Am i blocked on anything?
+- Not at the moment.
+
+

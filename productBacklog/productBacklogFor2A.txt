@@ -1,0 +1,16 @@
+I want a shell with multiple commands that can take input (keyboard) and compute an output based on my requirements.    | 2 hours
+I want to be able to open the shell and close the shell.                                                                | 40 minutes
+I want to be able to create folders on my machine.                                                                      | 2 hours 
+I want to be able to change my current working directory                                                                | 15 minutes 
+I want a text representation of what's inside of my working directory folder, or any folder I specify.                  | 40 minutes 
+I want a text representation of the path to my current working directory.                                               | 15 minutes 
+I want to be able to save my current working directory and change the directory to something else.                      | 60 minutes
+I want to be able to change directories to my most recently saved directory.                                            | 10 minutes
+I want to be able to see the history of all of my commands and actions.                                                 | 30 minutes
+I want to be able to see what's inside of a file in text format.                                                        | 10 minutes
+I want to be able to write text to a file.                                                                              | 20 minutes
+I want to be able to add text to an existing file.                                                                      | 30 minutes
+I want to be able to see instructions for each command.                                                                 | 60 minutes 
+I want to see my current working directory.                                                                             | 10 minutes
+I want the program to run without crashing.                                                                             | 2 hours
+I want everything to look nice and be documented.                                                                       | 1 hour

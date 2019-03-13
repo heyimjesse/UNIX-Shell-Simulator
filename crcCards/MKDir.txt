@@ -1,0 +1,13 @@
+Class name: MKDir
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Create new directories at specified path, which may be a full or relative path, with given names
+
+Collaborators:
+*FileSystem
+*Folder
+*ErrorChecker
+*Navigate
+*PathChecker

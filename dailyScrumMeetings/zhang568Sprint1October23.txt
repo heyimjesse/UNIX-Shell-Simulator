@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+	- I brained storm implementation ideas for command classes, and how to call each command
+	based on user input. I discussed with team members and decided to create a command superclass
+	which will be inherited by all commands, and that to determine which command is executed
+	we will use switch statements.
+	- I completed the ErrorChecker class and made minor changes to other java files
+
+What do I plan to work in the next three days?
+	- I play to finish MKDir class and more depending on our next sprint assignments
+
+Am I blocked on anything?

@@ -1,0 +1,8 @@
+Class name: ErrorChecker
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Checks to make sure the input command is valid and parameters for special characters
+
+Collaborators:

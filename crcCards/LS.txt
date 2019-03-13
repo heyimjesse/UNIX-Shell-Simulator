@@ -1,0 +1,13 @@
+Class name: LS
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*For each given path p:
+	If p is a file, print the contents to the shell
+	If p is a directory, print out p and its list of contents (do this for working directory if p not given)
+
+Collaborators: 
+*FileSystem
+*Printer
+*Folder

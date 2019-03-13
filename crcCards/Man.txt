@@ -1,0 +1,9 @@
+Class name: Man
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Prints documentation for specified shell command
+
+Collaborators:
+*FileSystem

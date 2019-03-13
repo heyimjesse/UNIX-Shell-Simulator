@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Brainstorms test cases
+	- Ad hoc tested the program for errors
+	- Consulted with team members on polishing up the program
+
+What do I plan to work in the next three days?
+	- Polish the program more, and make everything look nice
+	- Complete test cases
+
+Am I blocked on anything?

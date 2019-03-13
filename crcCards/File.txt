@@ -1,0 +1,8 @@
+Class name: File
+Parent class:
+Subclasses: TextFile, Folder
+
+Responsibilities:
+*Keeps track of the file's name and type.
+
+Collaborators: 

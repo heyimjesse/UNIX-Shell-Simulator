@@ -1,0 +1,14 @@
+Class name: Printer
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Prints input to the shell
+
+Collaborators: 
+*Shell
+*Cat
+*History
+*LS
+*Man
+*PWD

@@ -1,0 +1,9 @@
+Class name: Scanner
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Reads each command typed by the reader into the shell
+*Checks command for validity
+
+Collaborators:

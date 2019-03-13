@@ -1,0 +1,9 @@
+Class name: Tree
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Returns a string representation of the file system
+
+Collaborators: 
+*FileSystem

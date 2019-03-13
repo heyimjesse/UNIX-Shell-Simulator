@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- Completed the Shell class
+	- Added functionality to the driver
+	- Removed helper methods that weren't being used/redundant code
+	- Fixed bugs all around
+	- Standardized the commands so they all follow the same style (same parameters, runCommand method)
+
+What do I plan to work in the next three days?
+	- I plan to finish whatever's left (Echo, Cat, File class) that my colleagues aren't doing.
+
+Am I blocked on anything?
+	- Need file class to be functional before the commands that work with it can be implemented.

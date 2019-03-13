@@ -1,0 +1,11 @@
+Class name: Echo
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Appends text to a file, override a file, or print to some text to the console
+
+Collaborators:
+*FileSystem
+*TextFile
+*Printer

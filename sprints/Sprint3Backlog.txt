@@ -1,0 +1,29 @@
+//Sprint #2 Backlog.
+October 31 to November 7
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) I want to be able to see what's inside of a file in text format.
+b) I want the program to run without crashing.
+c) I want everything to look nice and be documented.
+
+Specific tasks to be accomplished:
+a-1. (CAT) finish the CAT command
+b-1. Create test cases
+b-2. Do ad hoc testing for errors
+c-1. Check and update CRC cards
+c-2. Fix/Update docstring and comments
+
+The tasks are assigned as follows:
+
+User: Jesse
+Tasks: b-1, b-2, c-1
+
+User: Mogen
+Tasks: b-1, b-2, c-1
+
+User: Haoran
+Tasks: c-1, c-2
+
+User: Saron
+Tasks: a-1, b-1, b-2

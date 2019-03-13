@@ -1,0 +1,45 @@
+//Sprint 1 Backlog for 2B
+November 19 to November 26
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) I want to download files from the Internet to my file system.
+b) I want to be able to save the state of my shell to my local computer.
+c) I want to be able to load said save and restore state of the shell.
+d) I want to be able to find file locations given the file type and name,
+and optionally a specified directory.
+e) I want to view a text representation of my file system.
+f) I want the program to run smoothly with new requirements.
+
+Specific tasks to be accomplished:
+a-1. (Get) Fetch a specified file from online and save it to the FileSystem.
+a-2. (JShell) Add the Get command.
+
+b-1. (JShell) Add the Save and Load command.
+b-2. (Save) Save the state of the file system and history to local storage.
+b-3. (Load) Parse the save file and construct the file system as well as history.
+
+c-1. (JShell) Add Find command
+c-2. (Find) Find file location given file type and file name
+c-3. (Find) Find file location given file type, file name, and directory to look under.
+
+d-1. (JShell) Add Tree command.
+d-2. (Tree) Return text representation of files in FileSystem.
+
+f-1. (CmdDictionary) Add a class that allows access to commands from string.
+f-2. Make commands non-static and all conform to the same structure.
+
+
+These tasks are assigned as follows:
+
+User: Haoran
+Tasks: b
+
+User: Mogen
+Tasks: d, f-2
+
+User: Saron
+Tasks: c, f-2
+
+User: Jesse
+Tasks: a, f-1, f-2, e

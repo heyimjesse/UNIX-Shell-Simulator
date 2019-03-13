@@ -1,0 +1,12 @@
+Class name: PWD
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Prints the full path of the current directory to the shell
+
+
+Collaborators: 
+*FileSystem
+*Scanner
+*Printer

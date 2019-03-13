@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+  - Created MV
+  - Made helper methods
+  - Modified concept for object oriented
+  - Made code more modular
+
+What do I plan to work in the next three days?
+  - Fix MV bugs and glitches
+  - Modify printer to capture output and export as a file.
+
+Am I blocked on anything?
+  - No

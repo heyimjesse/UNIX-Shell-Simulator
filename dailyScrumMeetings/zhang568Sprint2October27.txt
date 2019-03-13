@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- I updated the Directory, PathChecker, Navigate, errorChecker classes
+	- I completed the CD, CWDString, PWD, MKDir classes
+	- Did some testing on the aforementioned classes to ensure they work
+
+What do I plan to work in the next three days?
+	- I plan to finish DirectoryStack as well as pushd/popd, echo, and perhaps more depending on what's left.
+
+Am I blocked on anything?

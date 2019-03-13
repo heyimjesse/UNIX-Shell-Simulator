@@ -1,0 +1,12 @@
+What did I work on in the last three days?
+	- I brain stormed the implementation of our product with my team mates and now I think we have a pretty good idea
+	of what to do, and how everything will be put together.
+	- I finished the classes: File, TextFile, Folder, Directory
+	- I checked the crcCards for logical consistency and added a few more
+
+What do I plan to work in the next three days?
+	- I plan to finish the MKDir class, which will contain a static method with three parameters (folder name, path, folder object) 
+	and will make a folder at the end of the path with the given name. 
+	- I plan to work on the ErrorCheck class which will check to make sure the user input is valid.
+
+Am I blocked on anything?

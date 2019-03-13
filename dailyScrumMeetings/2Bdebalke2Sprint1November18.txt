@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+	- Created/implemented the find class into our code
+	- Fixed bugs with echo
+	- Conformed all old code to our new non static design
+
+What do I plan to work in the next three days?
+	- Create/implement cp 
+	- Testing cases
+	
+Am I blocked on anything?

@@ -1,0 +1,11 @@
+Class name: Navigate
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Allows access to items inside the folder.
+
+Collaborators:
+*FileSystem
+*Folder
+*PathChecker

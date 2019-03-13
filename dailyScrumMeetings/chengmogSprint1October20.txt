@@ -1,0 +1,15 @@
+a) What did I work on in the last three days?
+- Navigate, PathChecker, Printer are all working based on CRC spec
+- Updated a few CRC cards
+- Brainstormed ideas for literally all the classes and added recommendations
+- Added some test cases for my side of the project
+
+b) What do I plan to work in the next three days?
+- Complete more CRC commands, likely Echo.java, History.java, Man.java, etc
+- for sprint2 (tbd)
+- Work with team on Sprint2
+- Plan to work on Scanner class which takes input, checks for errors and
+-   parses the input into useful data.
+
+c) Am I blocked on anything?
+- Nope, wbu

@@ -1,0 +1,14 @@
+What did I work on in the last three days?
+  - MV edge cases
+  - Conformed code to non-static
+  - >> OUTFILE capability for each command (within Printer)
+  - Printer modifications
+
+What do I plan to work in the next three days?
+  - Fix bugs
+  - Help fix other people's problems
+  - Write tests for code written
+  - Fix bug where errors are sent to OUTFILE
+
+Am I blocked on anything?
+  - No

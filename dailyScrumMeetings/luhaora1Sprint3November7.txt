@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Wrote some test cases
+	- Looked over new bugs and issues with version control
+
+What do I plan to work in the next three days?
+	- Plan to finish test cases
+
+Am I blocked on anything?

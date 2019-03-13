@@ -1,0 +1,8 @@
+What did I work on in the last three days?
+	- Brainstorms test cases
+	- Added test cases
+	- Polished up our program by formatting and fixing javadocs
+
+What do I plan to work in the next three days?
+
+Am I blocked on anything?

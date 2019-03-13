@@ -1,0 +1,13 @@
+I want to be able to see my output on a file                                               |3 hours
+I want to be able to view all folders within my current folder.						       |3 hours
+I want to move a file to a different place.								                   |3 hours
+I want to copy a certain folder and its contents to a different place.				       |4 hours
+I want to see the contents of multiple files at once.							           |1 hour
+I want to download files from the Internet to my file system.					           |4 hours
+I want to be able to save the state of my shell to my local computer.					   |4 hours
+I want to be able to load the save of my shell from my computer and restore the state of
+my jshell.												                                   |2 hours
+I want to find file locations given type of the file, and name of the file in an optionally
+specified directory.										                        	   |6 hours
+I want to view a text representation of my file system.						        	   |5 hours	
+I want the program to run smoothly with new requirements.

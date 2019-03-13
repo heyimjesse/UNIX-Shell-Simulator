@@ -1,0 +1,10 @@
+Class name: DirectoryStack
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Stores the full directories saved by the user in a FIFO stack
+
+Collaborators: 
+*PopD
+*PushD

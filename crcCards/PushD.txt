@@ -1,0 +1,12 @@
+Class name: PushD
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+*Stores current directory into stack in DirectoryStack
+
+Collaborators: 
+*FileSystem
+*DirectoryStack
+*Shell
+*Scanner

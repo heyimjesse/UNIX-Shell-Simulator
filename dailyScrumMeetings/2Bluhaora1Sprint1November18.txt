@@ -1,0 +1,11 @@
+What did I work on in the last three days?
+  - Started working on LS recursive call
+  - Made helper methods hasFileRecursive, getNextFile, LSRecursiveHelper
+  - Wrote pseudocode for LS
+  - Updated relevant javadoc
+
+What do I plan to work in the next three days?
+  - Finish writing getNextFile and LSRecursiveHelper
+
+Am I blocked on anything?
+  - Implementation of getNextFile is not clear to me

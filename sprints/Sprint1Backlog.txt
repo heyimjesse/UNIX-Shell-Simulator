@@ -1,0 +1,33 @@
+//Sprint #1 Backlog.
+October 18 to October 23
+
+
+User Stories from Product Backlog that we will address in this sprint:
+a) I want to be able to create folders on my machine.
+b) I want to be able to change my current working directory.
+c) I want a text representation of what's inside of my working directory folder, or any folder I specify.
+d) Check CRC cards.
+
+Specific tasks to be accomplished:
+a-1. (Directory) Create the class that keeps track of the current working directory and root directory.
+a-2. (File/TextFile/Folder) Create the classes for different file types.
+a-3. (ErrorChecker) Work on the class which checks the input for validity.
+b-1. (Directory) Write a method that changes the current working directory.
+c-1. (Printer) Write code that takes some string input and calls the standard output for Java with the string.
+c-2. (LS) Work on the method which obtains the contents of the current working directory. (and print it)
+c-3. (LS) Work on the method which obtains the contents of the specified directory. (and print it)
+d-1. Check to ensure CRC cards are logically equivalent to our implementation.
+
+The tasks are assigned as follows:
+
+User: Jesse
+Tasks: a-1, a-2, a-3
+
+User: Mogen
+Tasks: b-1, c-1
+
+User: Haoran
+Tasks: c-2, c-3
+
+User: Saron
+Tasks: d-1

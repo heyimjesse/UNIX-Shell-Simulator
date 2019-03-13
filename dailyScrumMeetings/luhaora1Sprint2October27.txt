@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- I completed the Man class
+	- I updated the javadoc for all command classes
+	- I met with my group to modify implementation details of their classes to fix compile errors
+
+What do I plan to work in the next three days?
+	- I plan to debug and prepare to present to our TA
+
+Am I blocked on anything?

@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- brainstormed implementation ideas with team
+	- added Tree command
+	- fixed javadocs
+
+What do I plan to work in the next three days?
+	- test cases and anything thats left
+	
+Am I blocked on anything?

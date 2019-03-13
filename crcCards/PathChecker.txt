@@ -1,0 +1,11 @@
+Class name: PathChecker
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Checks if a given path exists.
+
+Collaborators:
+*FileSystem
+*Directory
+*Folder

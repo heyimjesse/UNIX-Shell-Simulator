@@ -1,0 +1,9 @@
+a) What did I work on in the last three days?
+- Created the CustomScanner
+- Worked with team to iterate our class design- i.e. created a superclass Command that encompasses all valid shell commands
+
+b) What do I plan to work in the next three days?
+- Complete more CRC card implementations, and test more edge cases for code I've already written
+
+c) Am I blocked on anything?
+- Not at the moment

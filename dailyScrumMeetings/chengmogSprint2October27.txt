@@ -1,0 +1,8 @@
+a) What did I work on in the last three days?
+- Fixed test cases and conversed with team about the application design
+
+b) What do I plan to work in the next three days?
+- Implementation of final commands, adding test cases and fixes
+
+c) Am I blocked on anything?
+- No

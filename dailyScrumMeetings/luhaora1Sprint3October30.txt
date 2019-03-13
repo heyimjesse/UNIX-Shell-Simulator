@@ -1,0 +1,9 @@
+What did I work on in the last three days?
+	- Found and fixed some edge cases
+	- Fixed documentation and indentation
+	- Presented to TA
+
+What do I plan to work in the next three days?
+	- Plan to write test cases and fix bugs that are to be found
+
+Am I blocked on anything?

@@ -1,0 +1,9 @@
+Class name: PathParser
+Parent class: None
+Subclasses: None
+
+Responsibilities:
+* Parses path strings
+
+Collaborators:
+* None

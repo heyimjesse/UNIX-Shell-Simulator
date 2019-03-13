@@ -1,0 +1,10 @@
+Class name: FileSystem
+Parent class:
+Subclasses:
+
+Responsibilities:
+*Keeps track of the root directory.
+*Keeps track of the path to the current working directory.
+
+Collaborators: 
+*Folder

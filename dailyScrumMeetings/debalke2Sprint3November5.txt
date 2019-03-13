@@ -1,0 +1,10 @@
+What did I work on in the last three days?
+- Cleaned up/ commented/ error checking with echo and cat classes
+
+What do i plan to work on in the next three days?
+- Looking over entire project 
+- Making sure our crcCards match the project well
+- General cleanup 
+
+Am i blocked on anything?
+- Not at the moment.

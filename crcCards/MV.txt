@@ -1,0 +1,15 @@
+Class name: MV
+Parent class: Command
+Subclasses:
+
+Responsibilities:
+* Moves a file or folder to a target directory
+
+Collaborators:
+* Printer
+* Folder
+* File
+* FileSystem
+* ErrorChecker
+* Navigate
+* PathChecker
